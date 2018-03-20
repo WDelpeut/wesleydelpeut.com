@@ -1,0 +1,11 @@
+{
+  "name": "wesleydelpeut.com",
+  "version": "1.0.0",
+  "description": "Portfolio Wesley Delpeut",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDelpeut/wesleydelpeut.com.git"
+  },
+  "author": "Wesley Delpeut"
+}
